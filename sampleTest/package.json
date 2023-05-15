@@ -16,6 +16,7 @@
     "test": "rm -rf ./junit.xml && ./node_modules/.bin/react-scripts test --verbose --env=jsdom --testResultsProcessor ./node_modules/jest-junit"
   },
   "devDependencies": {
+    "@testing-library/jest-native": "^5.4.2",
     "chai": "^4.1.2",
     "enzyme": "^3.2.0",
     "enzyme-adapter-react-16": "^1.1.0",

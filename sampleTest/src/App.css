@@ -1,4 +1,17 @@
+html, body {
+  font-family: 'Open Sans';
+}
+
 .App {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.controls {
+}
+
+/*.App {
   text-align: center;
 }
 
@@ -26,3 +39,4 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+*/
