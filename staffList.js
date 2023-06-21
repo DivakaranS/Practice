@@ -20,6 +20,7 @@ class StaffList {
             console.log(false);
         }
     }
+
     getSize = () => console.log(this.memberCollection.length);
     
 }
